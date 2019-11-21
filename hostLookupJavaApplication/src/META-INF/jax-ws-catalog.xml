@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://c0sm0s:8080/hostLookup/hostWebService?wsdl" uri="wsdl/c0sm0s_8080/hostLookup/hostWebService.wsdl"/>
+    <system systemId="http://c0sm0s:8080/hostLookup/hostWebService?xsd=1" uri="wsdl/c0sm0s_8080/hostLookup/hostWebService.xsd_1.xsd"/>
+</catalog>
